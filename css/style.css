@@ -5614,7 +5614,9 @@ body {
     margin-right: 10px;
     font-weight: 500;
 }
-
+.footer-half .cont .con-info li .call-icon {
+  transform: rotate(-45deg);
+}
 .footer-half .cont .social-icon {
     margin-top: 40px;
     width: 50%;
